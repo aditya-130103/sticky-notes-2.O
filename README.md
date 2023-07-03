@@ -1,7 +1,17 @@
-# Getting Started with Create React App
+# Sticky Notes 2.O
+STICKY NOTES 2.O is a new web application that lets you create, edit and share digital sticky notes on your devices. You can use it to jot down reminders, tasks, ideas, or anything else you want to remember.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built with
+This project is built by the following languages and references:
+- HTML
+- CSS
+- JavaScript
+- Node.js, Express
+- EJS
+- MongoDB, Mongoose
+- React
 ## Available Scripts
 
 In the project directory, you can run:
